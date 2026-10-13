@@ -1,0 +1,4 @@
+Hello Python
+I am learning file handling
+Python is useful
+File handling is most usefull topic
